@@ -1,0 +1,15 @@
+INSERT INTO countries VALUES (1, 'Ukraine', 40000000);
+INSERT INTO cities VALUES (1, 'Uman', 80000, 1);
+INSERT INTO streets VALUES (1, 'Shevchenko', 1);
+INSERT INTO streets VALUES (2, 'Garmatna', 1);
+INSERT INTO houses VALUES (1, '1.323.1212.12312', 30, 1);
+INSERT INTO houses VALUES (2, '9.9392.21.211', 193, 2);
+INSERT INTO flats VALUES (1, 20, 1);
+INSERT INTO flats VALUES (2, 21, 1);
+INSERT INTO flats VALUES (3, 20, 2);
+INSERT INTO citizens VALUES (1, 12, 'Vasyl', 'Zaichenko');
+INSERT INTO citizens VALUES (2, 21, 'Name', 'Surname');
+INSERT INTO citizens VALUES (3, 40, 'Taras', 'Shevchenko');
+INSERT INTO inhabitants VALUES (1, 1, 1);
+INSERT INTO inhabitants VALUES (2, 2, 2);
+INSERT INTO inhabitants VALUES (3, 3, 3);
